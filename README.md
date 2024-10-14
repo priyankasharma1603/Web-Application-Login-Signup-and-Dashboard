@@ -20,7 +20,6 @@ Welcome to the **Web Application Login, Signup, and Dashboard** project! This ap
 Make sure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/) (v14 or higher)
-- [MongoDB](https://www.mongodb.com/) (for database management)
 
 ### 📥 Installation
 
