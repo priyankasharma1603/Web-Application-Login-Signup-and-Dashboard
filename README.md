@@ -11,9 +11,7 @@ Welcome to the **Web Application Login, Signup, and Dashboard** project! This ap
 ## 🛠️ Technologies Used
 
 - **Frontend**: React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Styling**: CSS, Material-UI (or Tailwind CSS, if used)
+- **Styling**: Tailwind CSS, Material-UI
 
 ## 📦 Getting Started
 
