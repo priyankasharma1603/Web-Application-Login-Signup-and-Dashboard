@@ -1,9 +1,6 @@
 # 🌐 Web Application Login, Signup, and Dashboard
 
 Welcome to the **Web Application Login, Signup, and Dashboard** project! This application provides a user-friendly interface for users to register, log in, and access a personalized dashboard.
-
-```markdown
-
 ## 🚀 Features
 
 - **User Authentication**: Secure login and signup process.
@@ -35,6 +32,9 @@ Make sure you have the following installed on your machine:
    git clone https://github.com/priyankasharma1603/Web-Application-Login-Signup-and-Dashboard.git
    cd Web-Application-Login-Signup-and-Dashboard
    ```
+
+
+
 
 2. Install the dependencies:
 
@@ -91,5 +91,3 @@ Happy coding! 🎉
    git commit -m "Add README with project details"
    git push origin main
    ```
-
-This README provides an overview of your project, its features, and instructions for setting it up. You can modify any section as needed to better suit your project's specifics!
