@@ -8,6 +8,13 @@ Welcome to the **Web Application Login, Signup, and Dashboard** project! This ap
 - **Responsive Design**: Optimized for both desktop and mobile views.
 - **Easy Navigation**: User-friendly navigation throughout the application.
 
+LOGIN:
+  ![image](https://github.com/user-attachments/assets/cb09c096-5c3d-428d-8157-c651e0bcdd8d)
+
+SIGNUP:
+![image](https://github.com/user-attachments/assets/fc5b2381-e0fc-4e70-a449-e539646564ea)
+
+DASHBOARD:
   ![image](https://github.com/user-attachments/assets/f8d59c2c-b2e8-4873-952a-5953553141cc)
 
 
